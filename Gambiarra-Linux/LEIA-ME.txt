@@ -1,0 +1,4 @@
+Extraia Gambiarra-Linux para ~/.local/share/icons/.
+No GNOME, execute gsettings set org.gnome.desktop.interface icon-theme Gambiarra-Linux
+No KDE Plasma ou Xfce, selecione Gambiarra nas preferências de ícones.
+Ícones complementares são procurados em Adwaita, Breeze e hicolor.
