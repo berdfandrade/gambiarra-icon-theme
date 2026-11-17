@@ -1,5 +1,7 @@
 # Gambiarra
 
+**Português** · [English](./README.en.md)
+
 Um vinil escapando da pasta de música, uma fita cassete para os arquivos de áudio e um terminal com cara de monitor de tubo. **Gambiarra** é um tema de ícones para Linux desenhado com contornos de tinta e cores de adesivo.
 
 ![Amostra do Gambiarra com Firefox, Steam, GIMP, pastas, dispositivos e formatos de arquivo](./Gambiarra-Linux-preview.png)
